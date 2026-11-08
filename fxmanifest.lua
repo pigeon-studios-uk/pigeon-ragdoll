@@ -5,7 +5,7 @@ lua54 'yes'
 name 'pigeon-ragdoll'
 author 'Pigeon Studios'
 description 'A key to fall over and lie limp, and get back up, with a cooldown and no falling in vehicles or water.'
-version '0.1.0'
+version '1.0.0'
 repository 'https://github.com/pigeon-studios-uk/pigeon-ragdoll'
 
 -- Pigeon Studios version registry entry, read by server/version_check.lua.
